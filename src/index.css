@@ -34,20 +34,31 @@
 
     --radius: 0.5rem;
 
+    --drowsy: 195 100% 36%;
+    --drowsy-light: 195 100% 50%;
+    --drowsy-dark: 215 100% 20%;
+    
+    --alert: 350 80% 60%;
+    --alert-light: 350 100% 70%;
+    
+    --night: 220 25% 14%;
+    --night-light: 220 20% 25%;
+    --night-dark: 220 30% 10%;
+    
+    --day: 210 40% 96%;
+    --day-light: 0 0% 100%;
+    
+    --road-light: 220 10% 70%;
+    --road: 220 10% 50%;
+    --road-dark: 220 15% 30%;
+
     --sidebar-background: 0 0% 98%;
-
     --sidebar-foreground: 240 5.3% 26.1%;
-
     --sidebar-primary: 240 5.9% 10%;
-
     --sidebar-primary-foreground: 0 0% 98%;
-
     --sidebar-accent: 240 4.8% 95.9%;
-
     --sidebar-accent-foreground: 240 5.9% 10%;
-
     --sidebar-border: 220 13% 91%;
-
     --sidebar-ring: 217.2 91.2% 59.8%;
   }
 
